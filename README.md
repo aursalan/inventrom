@@ -1,4 +1,4 @@
-# My First Website 'Inventrom'
+# Inventrom: My First Website 
 
 This project is a simple, static website built entirely with **HTML** and **CSS**. It is designed to showcase the fundamentals of web development, including structuring content with HTML and styling it with CSS. The website features a clean, multi-section layout and visually appealing design elements, making it a great starting point for beginners.
 
