@@ -12,7 +12,7 @@ The goal of this website is to demonstrate how **HTML** and **CSS** can be used 
 
 ## Table of Contents
 
-- [Project Description](#my-first-website)
+- [Project Description](#my-first-website-inventrom)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [How to Use the Project](#how-to-use-the-project)
 - [Acknowledgements](#acknowledgements)
@@ -41,4 +41,4 @@ Once you open the website in your browser, you will be able to:
  - [MDN Web Docs:CSS](https://developer.mozilla.org/docs/Web/CSS)
 
 ## License
-This project is licensed under the [MIT](LICENSE.md) License.
+This project is licensed under the [MIT](LICENSE) License.
