@@ -9,6 +9,12 @@ This project demonstrates:
 - The creation of an attractive, functional web page without using any JavaScript or backend technologies.
 - Clean, readable code that is easy for beginners to understand and customise.
 
+
+## Screenshots
+
+![](/assets/screenshot.png)
+
+
 ## Table of Contents
 
 1. [Tech Stack and Prerequisites](#1-tech-stack-and-prerequisites)
